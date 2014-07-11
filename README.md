@@ -12,7 +12,7 @@ http://developer.android.com/
 
 
 ### 参与步骤（页尾有详细的过程演示）
-* fork主仓库（https://github.com/1sters/material_design_zh）
+* fork主仓库（https://github.com/1sters/developer_android）
 * 按照章节（页面）认领翻译(每次申请一个章节)，在下面这个`README.md`里找还没有被人申请的章节，写上（@你的github号），给主仓库的`master`分支提pull request；
 * 提的pull request 被确认，合并到主仓库后，代表你申请的章节*占位*完成，开始翻译；
 * 翻译过程请参 *翻译协作规范* ，完成翻译后提交pull request给主仓库的`master`分支；
@@ -53,9 +53,9 @@ http://developer.android.com/
 * [Android TV Apps](preview/tv/index.md)
   * [Get Started with TV Apps](preview/tv/start/index.md)
   * [Design for TV](preview/tv/design/index.md)
-    *[Creative Vision for TV](preview/tv/design/principles.md)
-    *[Patterns for TV](preview/tv/design/patterns.md)
-    *[Style for TV](preview/tv/design/style.md)
+    * [Creative Vision for TV](preview/tv/design/principles.md)
+    * [Patterns for TV](preview/tv/design/patterns.md)
+    * [Style for TV](preview/tv/design/style.md)
   * [User Interfaces for TV](preview/tv/ui/index.md)
     * [Layouts for TV](preview/tv/ui/layouts.md)
     * [Navigation for TV](preview/tv/ui/navigation.md)
