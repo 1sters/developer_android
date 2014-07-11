@@ -40,34 +40,34 @@ http://developer.android.com/
 
 ### L Developer Preview 
 
-* [Setting Up the Preview SDK]
-* [API Overview]
-* [Material Design]
-  * [Get Started]
-  * [Material Theme]
-  * [UI Widgets]
-  * [Views and Shadows]
-  * [Animations]
-  * [Compatibility]
-* [Design for Notifications]
-* [Android TV Apps]
-  * [Get Started with TV Apps]
-  * [Design for TV]
-   *[Creative Vision for TV]
-   *[Patterns for TV]
-   *[Style for TV]
-  * [User Interfaces for TV]
-   * [Layouts for TV]
-   * [Navigation for TV]
-   * [BrowseFragment]
-   * [DetailFragment]
-   * [Adding Search to TV Apps]
-   * [Making Recommendations]
-  * [Games On TV]
-  * [Hardware Features on TV]
-  * [ADT-1 Developer Kit]
-* [Samples]
-* [Reference]
-* [Support]
-* [License Agreement]
+* [Setting Up the Preview SDK](preview/setup-sdk.md)
+* [API Overview](preview/api-overview.md)
+* [Material Design](preview/material/index.md)
+  * [Get Started](preview/material/get-started.md)
+  * [Material Theme](preview/material/theme.md)
+  * [UI Widgets](preview/material/ui-widgets.md)
+  * [Views and Shadows](preview/material/views-shadows.md)
+  * [Animations](preview/material/animations.md)
+  * [Compatibility](preview/material/compatibility.md)
+* [Design for Notifications](preview/notifications.md)
+* [Android TV Apps](preview/tv/index.md)
+  * [Get Started with TV Apps](preview/tv/start/index.md)
+  * [Design for TV](preview/tv/design/index.md)
+   *[Creative Vision for TV](preview/tv/design/principles.md)
+   *[Patterns for TV](preview/tv/design/patterns.md)
+   *[Style for TV](preview/tv/design/style.md)
+  * [User Interfaces for TV](preview/tv/ui/index.md)
+   * [Layouts for TV](preview/tv/ui/layouts.md)
+   * [Navigation for TV](preview/tv/ui/navigation.md)
+   * [BrowseFragment](preview/tv/ui/browse.md)
+   * [DetailFragment](preview/tv/ui/details.md)
+   * [Adding Search to TV Apps](preview/tv/ui/in-app-search.md)
+   * [Making Recommendations](preview/tv/ui/recommendations.md)
+  * [Games On TV](preview/tv/games/index.md)
+  * [Hardware Features on TV](preview/tv/start/hardware-features.md)
+  * [ADT-1 Developer Kit](preview/tv/adt-1/index.md)
+* [Samples](preview/samples.md)
+* [Reference](preview/reference.md)
+* [Support](preview/support.md)
+* [License Agreement](preview/license.md)
 
