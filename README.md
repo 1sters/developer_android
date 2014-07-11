@@ -40,7 +40,7 @@ http://developer.android.com/
 
 ### L Developer Preview 
 
-* [Setting Up the Preview SDK](preview/setup-sdk.md)
+* [Setting Up the Preview SDK](preview/setup-sdk.md) - [Setting Up the Preview SDK](http://developer.android.com/preview/setup-sdk.html)
 * [API Overview](preview/api-overview.md)
 * [Material Design](preview/material/index.md)
   * [Get Started](preview/material/get-started.md)
